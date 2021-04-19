@@ -11,3 +11,4 @@ The contributions of this work are summarized as follows:
 
 - We conduct experiments over two widely-used benchmark datasets: COCO keypoint detection dataset and MPII Human Pose dataset. TokenPose achieves competitive state-of-the-art performance with much fewer parameters and computation cost compared with existing CNN-based counterparts.
 
+[arxiv 2104.03516](https://arxiv.org/pdf/2104.03516.pdf)
