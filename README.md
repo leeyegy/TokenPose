@@ -8,4 +8,4 @@ The contributions of this work are summarized as follows:
 • Both **hybrid** and **pure Transformer-based** architectures are explored in this work. To the best of our knowledge, our proposed TokenPose-T is the first pure Transformer-based model for 2D human pose estimation.
 • We conduct experiments over two widely-used benchmark datasets: COCO keypoint detection dataset and MPII Human Pose dataset. TokenPose achieves competitive state-of-the-art performance with much fewer parameters and computation cost compared with existing CNN-based counterparts.
 
-![image](https://user-images.githubusercontent.com/35657511/115194279-d2586a80-a11f-11eb-8c07-4b9f718da135.png)
+![image](https://user-images.githubusercontent.com/35657511/115194348-ed2adf00-a11f-11eb-96c5-3fd442bffbde.png)
