@@ -1,9 +1,6 @@
 # Introduction
 Human pose estimation deeply relies on **visual clues** and **constraint clues between parts** to locate keypoints. Most existing CNN-based methods do well in visual representation, however, lacking in the ability to explicitly learn the constraint relationships between keypoints. In this paper, we propose a novel approach based on Token representation for human Pose estimation (TokenPose). 
 
-
-![image](https://user-images.githubusercontent.com/35657511/115194348-ed2adf00-a11f-11eb-96c5-3fd442bffbde.png)
-
 The contributions of this work are summarized as follows:
 - We propose to use tokens to represent each keypoint entity. In this way, **visual cue learning** and **constraint cue learning** are explicitly incorporated into a unified framework.
 
