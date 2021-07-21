@@ -28,7 +28,7 @@ class TokenPose_B(nn.Module):
 
         extra = cfg.MODEL.EXTRA
 
-        super(PoseMobileNet, self).__init__()
+        super(TokenPose_B, self).__init__()
 
         print(cfg.MODEL)
         ##################################################
